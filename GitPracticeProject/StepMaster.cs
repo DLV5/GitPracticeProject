@@ -8,5 +8,6 @@ namespace GitPracticeProject
 {
     internal class StepMaster
     {
+        //Change 2
     }
 }

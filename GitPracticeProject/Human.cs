@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitPracticeProject
 {
-    internal class Staircase
+    internal class Human
     {
-        //Change 3
     }
 }
